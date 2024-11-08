@@ -1,0 +1,882 @@
+[
+  {
+    "skillName": "Python",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A versatile high-level programming language known for readability and ease of use."
+  },
+  {
+    "skillName": "React",
+    "skillCategory": "FRAMEWORK",
+    "description": "A popular JavaScript library for building user interfaces, especially for single-page applications."
+  },
+  {
+    "skillName": "MySQL",
+    "skillCategory": "DATABASE",
+    "description": "A widely used open-source relational database management system."
+  },
+  {
+    "skillName": "Git",
+    "skillCategory": "TOOL",
+    "description": "A distributed version control system to track changes in source code."
+  },
+  {
+    "skillName": "Teamwork",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to work effectively and collaboratively within a group."
+  },
+  {
+    "skillName": "English",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate proficiently in English."
+  },
+  {
+    "skillName": "Docker",
+    "skillCategory": "TOOL",
+    "description": "A platform for developing, shipping, and running applications in containers."
+  },
+  {
+    "skillName": "Public Speaking",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The skill of effectively communicating in front of an audience."
+  },
+  {
+    "skillName": "JavaScript",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A high-level, dynamic programming language primarily used for web development."
+  },
+  {
+    "skillName": "Machine Learning",
+    "skillCategory": "OTHER",
+    "description": "A field of artificial intelligence that enables systems to learn from data."
+  },
+  {
+    "skillName": "Java",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A high-level, class-based programming language commonly used for enterprise applications."
+  },
+  {
+    "skillName": "Spring Boot",
+    "skillCategory": "FRAMEWORK",
+    "description": "A framework for Java-based applications to create stand-alone, production-grade applications easily."
+  },
+  {
+    "skillName": "MongoDB",
+    "skillCategory": "DATABASE",
+    "description": "A NoSQL database known for its scalability and flexibility with JSON-like documents."
+  },
+  {
+    "skillName": "JIRA",
+    "skillCategory": "TOOL",
+    "description": "A tool for agile project management and issue tracking."
+  },
+  {
+    "skillName": "Problem Solving",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to identify solutions to complex or challenging situations."
+  },
+  {
+    "skillName": "Spanish",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate proficiently in Spanish."
+  },
+  {
+    "skillName": "AWS",
+    "skillCategory": "TOOL",
+    "description": "A cloud platform that provides a wide range of cloud services, including computing, storage, and networking."
+  },
+  {
+    "skillName": "Time Management",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The skill of effectively planning and controlling how much time to spend on specific activities."
+  },
+  {
+    "skillName": "PHP",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A server scripting language widely used for web development."
+  },
+  {
+    "skillName": "Data Visualization",
+    "skillCategory": "OTHER",
+    "description": "The ability to create graphical representations of data for analysis and communication."
+  },
+  {
+    "skillName": "C++",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A high-performance programming language commonly used in systems programming, game development, and real-time applications."
+  },
+  {
+    "skillName": "Django",
+    "skillCategory": "FRAMEWORK",
+    "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design."
+  },
+  {
+    "skillName": "PostgreSQL",
+    "skillCategory": "DATABASE",
+    "description": "An open-source relational database known for advanced features and reliability."
+  },
+  {
+    "skillName": "Figma",
+    "skillCategory": "TOOL",
+    "description": "A collaborative design tool used for creating user interfaces, wireframes, and prototypes."
+  },
+  {
+    "skillName": "Adaptability",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to adjust effectively to new conditions and changes."
+  },
+  {
+    "skillName": "Mandarin",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate proficiently in Mandarin Chinese."
+  },
+  {
+    "skillName": "Kubernetes",
+    "skillCategory": "TOOL",
+    "description": "An open-source platform for automating deployment, scaling, and management of containerized applications."
+  },
+  {
+    "skillName": "Critical Thinking",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to analyze information objectively and make reasoned judgments."
+  },
+  {
+    "skillName": "Ruby",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A dynamic, open-source programming language with a focus on simplicity and productivity."
+  },
+  {
+    "skillName": "UX Design",
+    "skillCategory": "OTHER",
+    "description": "The process of creating products that provide meaningful and relevant experiences to users."
+  },
+  {
+    "skillName": "TypeScript",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A typed superset of JavaScript that compiles to plain JavaScript, offering type safety for better development."
+  },
+  {
+    "skillName": "Vue.js",
+    "skillCategory": "FRAMEWORK",
+    "description": "A progressive JavaScript framework used for building user interfaces and single-page applications."
+  },
+  {
+    "skillName": "SQLite",
+    "skillCategory": "DATABASE",
+    "description": "A lightweight, serverless, self-contained SQL database engine commonly used in embedded systems."
+  },
+  {
+    "skillName": "Visual Studio Code",
+    "skillCategory": "TOOL",
+    "description": "A source-code editor developed by Microsoft, popular for its extensive extensions and debugging features."
+  },
+  {
+    "skillName": "Emotional Intelligence",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to understand and manage one's own emotions and those of others."
+  },
+  {
+    "skillName": "German",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate proficiently in German."
+  },
+  {
+    "skillName": "Terraform",
+    "skillCategory": "TOOL",
+    "description": "An open-source infrastructure as code software tool that enables users to define and provision data center infrastructure."
+  },
+  {
+    "skillName": "Negotiation",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The skill of reaching mutually beneficial agreements and resolving conflicts effectively."
+  },
+  {
+    "skillName": "Rust",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A systems programming language focused on safety, speed, and concurrency, known for memory safety features."
+  },
+  {
+    "skillName": "Cybersecurity",
+    "skillCategory": "OTHER",
+    "description": "The practice of protecting systems, networks, and programs from digital attacks."
+  },
+  {
+    "skillName": "Go",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "An open-source programming language designed for simplicity, reliability, and efficiency, often used in backend development."
+  },
+  {
+    "skillName": "Flutter",
+    "skillCategory": "FRAMEWORK",
+    "description": "An open-source UI software development kit created by Google for building natively compiled applications for mobile, web, and desktop."
+  },
+  {
+    "skillName": "Redis",
+    "skillCategory": "DATABASE",
+    "description": "An in-memory data structure store used as a database, cache, and message broker."
+  },
+  {
+    "skillName": "Jenkins",
+    "skillCategory": "TOOL",
+    "description": "An open-source automation server used to automate parts of software development related to building, testing, and deploying."
+  },
+  {
+    "skillName": "Leadership",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to lead, guide, and inspire a team towards achieving common goals."
+  },
+  {
+    "skillName": "French",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate proficiently in French."
+  },
+  {
+    "skillName": "Ansible",
+    "skillCategory": "TOOL",
+    "description": "An open-source automation tool for configuration management, application deployment, and task automation."
+  },
+  {
+    "skillName": "Creativity",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to think outside the box and come up with innovative solutions and ideas."
+  },
+  {
+    "skillName": "Swift",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A powerful programming language developed by Apple for building applications on iOS and macOS."
+  },
+  {
+    "skillName": "Data Science",
+    "skillCategory": "OTHER",
+    "description": "The field of analyzing and interpreting complex data to inform decisions."
+  },
+  {
+    "skillName": "Kotlin",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A statically typed programming language used primarily for Android development."
+  },
+  {
+    "skillName": "Laravel",
+    "skillCategory": "FRAMEWORK",
+    "description": "A PHP framework for web application development with elegant syntax and a focus on simplicity."
+  },
+  {
+    "skillName": "Firebase",
+    "skillCategory": "DATABASE",
+    "description": "A real-time, NoSQL database solution from Google used for mobile and web applications."
+  },
+  {
+    "skillName": "Postman",
+    "skillCategory": "TOOL",
+    "description": "A collaboration platform for API development used to design, test, and document APIs."
+  },
+  {
+    "skillName": "Conflict Resolution",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to resolve conflicts and find solutions that benefit all parties involved."
+  },
+  {
+    "skillName": "Italian",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate proficiently in Italian."
+  },
+  {
+    "skillName": "Chef",
+    "skillCategory": "TOOL",
+    "description": "An automation platform that transforms infrastructure into code, often used for DevOps."
+  },
+  {
+    "skillName": "Persuasion",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to influence others' decisions and encourage agreement."
+  },
+  {
+    "skillName": "Perl",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A high-level programming language known for its capabilities in text manipulation and scripting."
+  },
+  {
+    "skillName": "Blockchain",
+    "skillCategory": "OTHER",
+    "description": "A technology used for creating decentralized and secure data ledgers, commonly used in cryptocurrencies."
+  },
+  {
+    "skillName": "C#",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A modern, object-oriented language developed by Microsoft, primarily used for Windows applications and web development."
+  },
+  {
+    "skillName": "R",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A programming language and environment popular for statistical computing and graphics, widely used in data science."
+  },
+  {
+    "skillName": "Scala",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A language that combines functional and object-oriented programming, commonly used in big data and distributed systems."
+  },
+  {
+    "skillName": "PHP",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A widely-used open-source scripting language, especially suited for web development and creating dynamic content."
+  },
+  {
+    "skillName": "Objective-C",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "An older programming language used primarily for iOS and macOS applications, known for its use in Apple development."
+  },
+  {
+    "skillName": "MATLAB",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A high-level programming language and environment used for numerical computing, simulation, and data analysis."
+  },
+  {
+    "skillName": "Shell Scripting",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A scripting language for automating tasks in Unix and Linux environments, often used in DevOps and system administration."
+  },
+  {
+    "skillName": "Dart",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A programming language developed by Google, optimized for building UIs and commonly used with the Flutter framework."
+  },
+  {
+    "skillName": "Haskell",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A purely functional programming language with strong static typing, known for its expressiveness and high-level abstractions."
+  },
+  {
+    "skillName": "Assembly Language",
+    "skillCategory": "PROGRAMMING_LANGUAGE",
+    "description": "A low-level programming language that provides direct manipulation of hardware, primarily used in embedded systems."
+  },
+  {
+    "skillName": "React Native",
+    "skillCategory": "FRAMEWORK",
+    "description": "A framework for building native mobile apps using JavaScript and React."
+  },
+  {
+    "skillName": "TensorFlow",
+    "skillCategory": "FRAMEWORK",
+    "description": "An open-source framework developed by Google for building and deploying machine learning models."
+  },
+  {
+    "skillName": "GraphQL",
+    "skillCategory": "FRAMEWORK",
+    "description": "A query language for APIs and a runtime for executing those queries with existing data."
+  },
+  {
+    "skillName": "Oracle Database",
+    "skillCategory": "DATABASE",
+    "description": "A multi-model database management system commonly used for enterprise-level applications."
+  },
+  {
+    "skillName": "Apache Hadoop",
+    "skillCategory": "DATABASE",
+    "description": "An open-source framework for storing and processing large data sets in a distributed computing environment."
+  },
+  {
+    "skillName": "Tableau",
+    "skillCategory": "TOOL",
+    "description": "A powerful data visualization tool used for business intelligence and creating interactive dashboards."
+  },
+  {
+    "skillName": "Vagrant",
+    "skillCategory": "TOOL",
+    "description": "An open-source tool for building and maintaining virtualized development environments."
+  },
+  {
+    "skillName": "Slack",
+    "skillCategory": "TOOL",
+    "description": "A team collaboration tool used for communication, file sharing, and integration with other apps."
+  },
+  {
+    "skillName": "Photoshop",
+    "skillCategory": "TOOL",
+    "description": "A graphics editing software developed by Adobe, widely used for image manipulation and digital artwork."
+  },
+  {
+    "skillName": "Power BI",
+    "skillCategory": "TOOL",
+    "description": "A business analytics tool from Microsoft used to visualize and share insights from your data."
+  },
+  {
+    "skillName": "Google Analytics",
+    "skillCategory": "TOOL",
+    "description": "A web analytics service offered by Google that tracks and reports website traffic."
+  },
+  {
+    "skillName": "Cloud Computing",
+    "skillCategory": "OTHER",
+    "description": "The delivery of computing services like storage, processing, and software over the internet instead of local servers."
+  },
+  {
+    "skillName": "Team Collaboration",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to work effectively with others towards a common goal, including communication and problem-solving."
+  },
+  {
+    "skillName": "Cassandra",
+    "skillCategory": "DATABASE",
+    "description": "An open-source, distributed NoSQL database management system designed to handle large amounts of data across many commodity servers."
+  },
+  {
+    "skillName": "Emotional Intelligence",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to identify and manage your own emotions and the emotions of others."
+  },
+  {
+    "skillName": "Mandarin Chinese",
+    "skillCategory": "LANGUAGE",
+    "description": "A group of related dialects spoken in China, widely recognized as the most spoken language in the world."
+  },
+  {
+    "skillName": "Spring Framework",
+    "skillCategory": "FRAMEWORK",
+    "description": "A comprehensive programming and configuration model for modern Java-based enterprise applications."
+  },
+  {
+    "skillName": "AWS Lambda",
+    "skillCategory": "TOOL",
+    "description": "A serverless computing service from Amazon Web Services that runs code in response to events without provisioning servers."
+  },
+  {
+    "skillName": "Angular",
+    "skillCategory": "FRAMEWORK",
+    "description": "A platform for building web applications with TypeScript, developed by Google, known for its robust structure and powerful tools."
+  },
+  {
+    "skillName": "Express.js",
+    "skillCategory": "FRAMEWORK",
+    "description": "A minimal and flexible Node.js web application framework, providing a robust set of features to develop web and mobile applications."
+  },
+  {
+    "skillName": "Flask",
+    "skillCategory": "FRAMEWORK",
+    "description": "A lightweight Python web framework that allows for the easy creation of small to medium web applications."
+  },
+  {
+    "skillName": "Ruby on Rails",
+    "skillCategory": "FRAMEWORK",
+    "description": "A web application framework written in Ruby, following the convention over configuration principle, commonly used for rapid development."
+  },
+  {
+    "skillName": "Bootstrap",
+    "skillCategory": "FRAMEWORK",
+    "description": "A popular open-source framework for developing responsive and mobile-first websites, created with HTML, CSS, and JavaScript."
+  },
+  {
+    "skillName": "ASP.NET Core",
+    "skillCategory": "FRAMEWORK",
+    "description": "A cross-platform, high-performance framework for building modern, cloud-based, connected applications with .NET."
+  },
+  {
+    "skillName": "Svelte",
+    "skillCategory": "FRAMEWORK",
+    "description": "A modern JavaScript framework that shifts much of the work to compile time, offering highly efficient, minimalistic code."
+  },
+  {
+    "skillName": "Tailwind CSS",
+    "skillCategory": "FRAMEWORK",
+    "description": "A utility-first CSS framework that provides low-level utility classes to build custom designs without having to leave your HTML."
+  },
+  {
+    "skillName": "Ember.js",
+    "skillCategory": "FRAMEWORK",
+    "description": "An opinionated framework for building ambitious web applications with a focus on productivity and convention over configuration."
+  },
+  {
+    "skillName": "Backbone.js",
+    "skillCategory": "FRAMEWORK",
+    "description": "A JavaScript framework that provides the minimal structure needed for web applications by offering models with key-value binding and custom events."
+  },
+  {
+    "skillName": "Meteor",
+    "skillCategory": "FRAMEWORK",
+    "description": "A full-stack JavaScript platform for building modern web and mobile applications in pure JavaScript."
+  },
+  {
+    "skillName": "Next.js",
+    "skillCategory": "FRAMEWORK",
+    "description": "A React-based framework that enables developers to build static and server-rendered applications with ease."
+  },
+  {
+    "skillName": "Nuxt.js",
+    "skillCategory": "FRAMEWORK",
+    "description": "A framework based on Vue.js that simplifies the process of building server-side rendered applications."
+  },
+  {
+    "skillName": "Gatsby",
+    "skillCategory": "FRAMEWORK",
+    "description": "A static site generator for React that allows for blazing-fast websites using GraphQL and modern web technologies."
+  },
+  {
+    "skillName": "Quasar Framework",
+    "skillCategory": "FRAMEWORK",
+    "description": "A Vue.js-based framework used for building high-performance, responsive web and mobile applications."
+  },
+  {
+    "skillName": "Ionic",
+    "skillCategory": "FRAMEWORK",
+    "description": "A framework for building cross-platform mobile apps with HTML, CSS, and JavaScript, leveraging web technologies."
+  },
+  {
+    "skillName": "CodeIgniter",
+    "skillCategory": "FRAMEWORK",
+    "description": "A lightweight PHP framework designed for developers who need a simple yet powerful toolkit to create full-featured web applications."
+  },
+  {
+    "skillName": "CakePHP",
+    "skillCategory": "FRAMEWORK",
+    "description": "A rapid development framework for PHP, known for its convention over configuration approach and scalability."
+  },
+  {
+    "skillName": "Zend Framework",
+    "skillCategory": "FRAMEWORK",
+    "description": "An open-source, object-oriented web application framework for PHP designed to build secure and high-performance applications."
+  },
+  {
+    "skillName": "Play Framework",
+    "skillCategory": "FRAMEWORK",
+    "description": "A reactive web framework for Java and Scala that makes it easy to build scalable web applications with a focus on simplicity."
+  },
+  {
+    "skillName": "Symfony",
+    "skillCategory": "FRAMEWORK",
+    "description": "A PHP framework for building web applications and a set of reusable PHP components used by developers across various industries."
+  },
+  {
+    "skillName": "Selenium",
+    "skillCategory": "TOOL",
+    "description": "An open-source framework for automating web browsers, mainly used for testing web applications."
+  },
+  {
+    "skillName": "CircleCI",
+    "skillCategory": "TOOL",
+    "description": "A continuous integration and continuous delivery platform used to automate the software development process."
+  },
+  {
+    "skillName": "GitHub",
+    "skillCategory": "TOOL",
+    "description": "A platform for version control and collaboration, allowing developers to store and manage their code repositories."
+  },
+  {
+    "skillName": "Stress Management",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to maintain composure and efficiency under pressure by using techniques to manage stress and avoid burnout."
+  },
+  {
+    "skillName": "Collaboration",
+    "skillCategory": "SOFT_SKILL",
+    "description": "The ability to work effectively with others in a team-oriented environment, respecting different viewpoints and contributing to collective goals."
+  },
+  {
+    "skillName": "German",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in German, spoken in Germany, Austria, and parts of Switzerland, and one of the key languages in business and science."
+  },
+  {
+    "skillName": "Arabic",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Arabic, a language spoken in the Middle East and North Africa, with many regional dialects."
+  },
+  {
+    "skillName": "Japanese",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Japanese, primarily spoken in Japan, with a complex writing system and rich cultural significance."
+  },
+  {
+    "skillName": "Portuguese",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Portuguese, spoken in Portugal, Brazil, and several other countries, making it one of the world's major languages."
+  },
+  {
+    "skillName": "Russian",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Russian, the most widely spoken Slavic language, especially in Russia and many former Soviet countries."
+  },
+  {
+    "skillName": "Korean",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Korean, spoken in South Korea and North Korea, with a unique alphabet and grammatical structure."
+  },
+  {
+    "skillName": "Dutch",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Dutch, spoken in the Netherlands, Belgium, and Suriname, and an important language in European trade and diplomacy."
+  },
+  {
+    "skillName": "Hindi",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Hindi, one of the official languages of India, widely spoken across the country and in communities abroad."
+  },
+  {
+    "skillName": "Swedish",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Swedish, the official language of Sweden, and one of the Nordic languages with close ties to Danish and Norwegian."
+  },
+  {
+    "skillName": "Turkish",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Turkish, the official language of Turkey, with significant historical and cultural ties to Central Asia and Europe."
+  },
+  {
+    "skillName": "Vietnamese",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Vietnamese, the official language of Vietnam, known for its unique tonal nature and use of the Latin alphabet."
+  },
+  {
+    "skillName": "Greek",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Greek, the official language of Greece and Cyprus, with a rich historical connection to philosophy, science, and literature."
+  },
+  {
+    "skillName": "Thai",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Thai, the official language of Thailand, with a unique script and tonal structure used in cultural and everyday communication."
+  },
+  {
+    "skillName": "Polish",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Polish, a Slavic language spoken primarily in Poland, with significant influence in Central Europe."
+  },
+  {
+    "skillName": "Bengali",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Bengali, the primary language spoken in Bangladesh and the state of West Bengal in India, with a rich literary and cultural heritage."
+  },
+  {
+    "skillName": "Malay",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Malay, an official language in Malaysia, Brunei, and Singapore, known for its use in regional trade and communication."
+  },
+  {
+    "skillName": "Persian (Farsi)",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Persian (Farsi), spoken in Iran, Afghanistan (as Dari), and Tajikistan (as Tajik), with a rich literary and cultural history."
+  },
+  {
+    "skillName": "Hebrew",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Hebrew, an official language of Israel, with significant religious and historical importance in Judaism."
+  },
+  {
+    "skillName": "Finnish",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Finnish, the official language of Finland, known for its complex grammar and unique vocabulary."
+  },
+  {
+    "skillName": "Czech",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Czech, the official language of the Czech Republic, with a strong presence in Central European culture and history."
+  },
+  {
+    "skillName": "Romanian",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Romanian, the official language of Romania, with Latin roots and a strong presence in Eastern Europe."
+  },
+  {
+    "skillName": "Ukrainian",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Ukrainian, an East Slavic language spoken in Ukraine and parts of Eastern Europe, with unique linguistic features."
+  },
+  {
+    "skillName": "Swahili",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Swahili, widely spoken in East Africa, especially in Kenya, Tanzania, and Uganda, and used for inter-ethnic communication."
+  },
+  {
+    "skillName": "Nepali",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Nepali, the official language of Nepal, with historical ties to India and Tibetan culture."
+  },
+  {
+    "skillName": "Tamil",
+    "skillCategory": "LANGUAGE",
+    "description": "The ability to communicate in Tamil, a Dravidian language spoken primarily in India, Sri Lanka, and Singapore, with an ancient literary tradition."
+  },
+  {
+    "skillName": "Quantum Computing",
+    "skillCategory": "OTHER",
+    "description": "The ability to understand and apply the principles of quantum mechanics to develop new computing models that surpass classical computing capabilities."
+  },
+  {
+    "skillName": "3D Modeling",
+    "skillCategory": "OTHER",
+    "description": "The ability to create three-dimensional digital representations of objects or environments using specialized software."
+  },
+  {
+    "skillName": "Virtual Reality (VR)",
+    "skillCategory": "OTHER",
+    "description": "The ability to design and interact with computer-generated environments in a simulated three-dimensional space using VR headsets or other devices."
+  },
+  {
+    "skillName": "Augmented Reality (AR)",
+    "skillCategory": "OTHER",
+    "description": "The ability to integrate digital information with the physical world in real-time, often using devices like smartphones or AR glasses."
+  },
+  {
+    "skillName": "Sustainability Practices",
+    "skillCategory": "OTHER",
+    "description": "The ability to implement practices that support environmental conservation, such as waste reduction, renewable energy usage, and resource management."
+  },
+  {
+    "skillName": "Photography",
+    "skillCategory": "OTHER",
+    "description": "The ability to capture images with a camera, using technical knowledge of lighting, composition, and editing techniques."
+  },
+  {
+    "skillName": "Video Editing",
+    "skillCategory": "OTHER",
+    "description": "The ability to manipulate and assemble video footage into a final product using editing software, including cutting, transitions, and effects."
+  },
+  {
+    "skillName": "Digital Marketing",
+    "skillCategory": "OTHER",
+    "description": "The ability to use online platforms and digital tools to promote products, services, or brands, including SEO, social media, and email marketing."
+  },
+  {
+    "skillName": "Content Creation",
+    "skillCategory": "OTHER",
+    "description": "The ability to produce original content for websites, blogs, and social media, including writing, photography, and video production."
+  },
+  {
+    "skillName": "Game Development",
+    "skillCategory": "OTHER",
+    "description": "The ability to design, develop, and test interactive video games for consoles, PCs, and mobile platforms using game development tools and programming languages."
+  },
+  {
+    "skillName": "Culinary Arts",
+    "skillCategory": "OTHER",
+    "description": "The ability to prepare, cook, and present food in professional kitchens, including techniques in flavor pairing, food safety, and presentation."
+  },
+  {
+    "skillName": "Event Planning",
+    "skillCategory": "OTHER",
+    "description": "The ability to organize, coordinate, and execute events such as conferences, weddings, or parties, handling logistics, vendors, and timelines."
+  },
+  {
+    "skillName": "Self-Defense",
+    "skillCategory": "OTHER",
+    "description": "The ability to protect oneself in dangerous situations using physical defense techniques and awareness of personal safety."
+  },
+  {
+    "skillName": "Product Design",
+    "skillCategory": "OTHER",
+    "description": "The ability to create and develop new products, considering functionality, usability, and aesthetics, often using CAD software."
+  },
+  {
+    "skillName": "Stock Market Analysis",
+    "skillCategory": "OTHER",
+    "description": "The ability to analyze financial markets, assess stocks, bonds, and investment strategies to make informed investment decisions."
+  },
+  {
+    "skillName": "Public Relations",
+    "skillCategory": "OTHER",
+    "description": "The ability to manage and maintain the public image of individuals or organizations through media relations, press releases, and strategic communication."
+  },
+  {
+    "skillName": "Copywriting",
+    "skillCategory": "OTHER",
+    "description": "The ability to write persuasive and engaging content for advertising, marketing campaigns, websites, and other commercial communications."
+  },
+  {
+    "skillName": "Project Management",
+    "skillCategory": "OTHER",
+    "description": "The ability to plan, organize, and execute projects from initiation to completion, managing timelines, resources, and team collaboration."
+  },
+  {
+    "skillName": "Negotiation Skills",
+    "skillCategory": "OTHER",
+    "description": "The ability to reach mutually beneficial agreements by discussing terms and finding compromises in business, legal, or personal situations."
+  },
+  {
+    "skillName": "Human Resource Management",
+    "skillCategory": "OTHER",
+    "description": "The ability to manage the recruitment, training, and development of employees, as well as handling compensation, performance, and organizational culture."
+  },
+  {
+    "skillName": "SEO (Search Engine Optimization)",
+    "skillCategory": "OTHER",
+    "description": "The ability to optimize website content to improve visibility and ranking in search engine results, driving traffic and improving online presence."
+  },
+  {
+    "skillName": "Financial Planning",
+    "skillCategory": "OTHER",
+    "description": "The ability to develop and manage personal or organizational budgets, investments, savings, and long-term financial goals."
+  },
+  {
+    "skillName": "Supply Chain Management",
+    "skillCategory": "OTHER",
+    "description": "The ability to oversee the production and distribution process of goods, from raw materials to final delivery, ensuring efficiency and cost-effectiveness."
+  },
+  {
+    "skillName": "Brand Strategy",
+    "skillCategory": "OTHER",
+    "description": "The ability to create a long-term plan to build and develop a brand, including defining the target market, value proposition, and key messaging."
+  },
+  {
+    "skillName": "Cryptocurrency",
+    "skillCategory": "OTHER",
+    "description": "The ability to understand and use digital currencies, including Bitcoin, Ethereum, and other blockchain-based assets, for investment or transactions."
+  },
+  {
+    "skillName": "Fashion Design",
+    "skillCategory": "OTHER",
+    "description": "The ability to create clothing and accessories, from initial concept sketches to final production, blending creativity with functionality and trends."
+  },
+  {
+    "skillName": "Data Science",
+    "skillCategory": "OTHER",
+    "description": "The ability to use scientific methods, algorithms, and data analysis tools to extract insights from structured and unstructured data for decision-making."
+  },
+  {
+    "skillName": "Influencer Marketing",
+    "skillCategory": "OTHER",
+    "description": "The ability to collaborate with influential individuals on social media to promote products, services, or brands to a wide audience."
+  },
+  {
+    "skillName": "Artificial Intelligence (AI)",
+    "skillCategory": "OTHER",
+    "description": "The ability to design and develop intelligent systems capable of performing tasks that typically require human intelligence, such as speech recognition and decision-making."
+  },
+  {
+    "skillName": "Podcasting",
+    "skillCategory": "OTHER",
+    "description": "The ability to create, edit, and distribute audio content in the form of podcasts, requiring knowledge of recording equipment, editing software, and distribution platforms."
+  },
+  {
+    "skillName": "Film Production",
+    "skillCategory": "OTHER",
+    "description": "The ability to plan, shoot, and edit films, managing aspects such as cinematography, sound, lighting, and post-production."
+  },
+  {
+    "skillName": "E-commerce Management",
+    "skillCategory": "OTHER",
+    "description": "The ability to manage online retail platforms, from product listing and pricing to customer service and marketing, ensuring a seamless shopping experience."
+  },
+  {
+    "skillName": "UX/UI Design",
+    "skillCategory": "OTHER",
+    "description": "The ability to design user interfaces and user experiences for digital products, focusing on ease of use, accessibility, and aesthetic appeal."
+  },
+  {
+    "skillName": "Cloud Computing",
+    "skillCategory": "OTHER",
+    "description": "The ability to use and manage cloud platforms for data storage, processing, and application hosting, leveraging services like AWS, Microsoft Azure, or Google Cloud."
+  },
+  {
+    "skillName": "Video Game Streaming",
+    "skillCategory": "OTHER",
+    "description": "The ability to broadcast live video game playthroughs or commentary through streaming platforms, building an online audience and interacting with viewers."
+  },
+  {
+    "skillName": "Drone Operation",
+    "skillCategory": "OTHER",
+    "description": "The ability to operate unmanned aerial vehicles (drones) for purposes like photography, surveying, or delivery, including knowledge of regulations and flight techniques."
+  },
+  {
+    "skillName": "Podcast Editing",
+    "skillCategory": "OTHER",
+    "description": "The ability to edit podcast recordings, improving audio quality, adding sound effects, removing noise, and enhancing content for a polished final product."
+  }
+]
