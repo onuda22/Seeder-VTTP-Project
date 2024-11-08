@@ -1,0 +1,356 @@
+[
+  {
+    "email": "info@astra.co.id",
+    "password": "password123",
+    "companyName": "Astra International",
+    "contact": "+62 21 1234 5678"
+  },
+  {
+    "email": "contact@telkom.co.id",
+    "password": "password123",
+    "companyName": "Telkom Indonesia",
+    "contact": "+62 21 8765 4321"
+  },
+  {
+    "email": "support@pertamina.co.id",
+    "password": "password123",
+    "companyName": "Pertamina",
+    "contact": "+62 21 2345 6789"
+  },
+  {
+    "email": "cs@gojek.co.id",
+    "password": "password123",
+    "companyName": "Gojek",
+    "contact": "+62 21 5678 1234"
+  },
+  {
+    "email": "help@bukalapak.com",
+    "password": "password123",
+    "companyName": "Bukalapak",
+    "contact": "+62 21 6789 2345"
+  },
+  {
+    "email": "admin@unilever.co.id",
+    "password": "password123",
+    "companyName": "Unilever Indonesia",
+    "contact": "+62 21 7890 3456"
+  },
+  {
+    "email": "contact@bca.co.id",
+    "password": "password123",
+    "companyName": "Bank Central Asia",
+    "contact": "+62 21 8901 4567"
+  },
+  {
+    "email": "info@indomaret.co.id",
+    "password": "password123",
+    "companyName": "Indomaret",
+    "contact": "+62 21 9012 5678"
+  },
+  {
+    "email": "cs@alfamart.co.id",
+    "password": "password123",
+    "companyName": "Alfamart",
+    "contact": "+62 21 1234 6789"
+  },
+  {
+    "email": "support@traveloka.com",
+    "password": "password123",
+    "companyName": "Traveloka",
+    "contact": "+62 21 2345 7890"
+  },
+  {
+    "email": "info@lippo.co.id",
+    "password": "password123",
+    "companyName": "Lippo Group",
+    "contact": "+62 21 3456 7890"
+  },
+  {
+    "email": "contact@kalbe.co.id",
+    "password": "password123",
+    "companyName": "Kalbe Farma",
+    "contact": "+62 21 1234 8901"
+  },
+  {
+    "email": "support@astra-honda.co.id",
+    "password": "password123",
+    "companyName": "Astra Honda Motor",
+    "contact": "+62 21 5678 9012"
+  },
+  {
+    "email": "help@indosat.co.id",
+    "password": "password123",
+    "companyName": "Indosat Ooredoo",
+    "contact": "+62 21 8901 2345"
+  },
+  {
+    "email": "admin@garuda-indonesia.com",
+    "password": "password123",
+    "companyName": "Garuda Indonesia",
+    "contact": "+62 21 2345 6780"
+  },
+  {
+    "email": "cs@sampoerna.co.id",
+    "password": "password123",
+    "companyName": "HM Sampoerna",
+    "contact": "+62 21 5678 1235"
+  },
+  {
+    "email": "info@sinar-mas.com",
+    "password": "password123",
+    "companyName": "Sinar Mas",
+    "contact": "+62 21 6789 3456"
+  },
+  {
+    "email": "support@medcoenergi.com",
+    "password": "password123",
+    "companyName": "Medco Energi",
+    "contact": "+62 21 3456 7892"
+  },
+  {
+    "email": "contact@indorama.com",
+    "password": "password123",
+    "companyName": "Indorama",
+    "contact": "+62 21 1234 5679"
+  },
+  {
+    "email": "info@adaro.com",
+    "password": "password123",
+    "companyName": "Adaro Energy",
+    "contact": "+62 21 8765 4322"
+  },
+  {
+    "email": "cs@djarum.com",
+    "password": "password123",
+    "companyName": "Djarum",
+    "contact": "+62 21 2345 6783"
+  },
+  {
+    "email": "help@phapros.com",
+    "password": "password123",
+    "companyName": "Phapros",
+    "contact": "+62 21 5678 1236"
+  },
+  {
+    "email": "contact@holcim.co.id",
+    "password": "password123",
+    "companyName": "Holcim Indonesia",
+    "contact": "+62 21 7890 3458"
+  },
+  {
+    "email": "info@mayora.co.id",
+    "password": "password123",
+    "companyName": "Mayora Indah",
+    "contact": "+62 21 9012 5679"
+  },
+  {
+    "email": "support@mutiara.com",
+    "password": "password123",
+    "companyName": "Mutiara Bank",
+    "contact": "+62 21 6789 1230"
+  },
+  {
+    "email": "help@telkomsel.co.id",
+    "password": "password123",
+    "companyName": "Telkomsel",
+    "contact": "+62 21 3456 7893"
+  },
+  {
+    "email": "admin@tjiwi.com",
+    "password": "password123",
+    "companyName": "Tjiwi Kimia",
+    "contact": "+62 21 5678 9013"
+  },
+  {
+    "email": "cs@wilmar.com",
+    "password": "password123",
+    "companyName": "Wilmar International",
+    "contact": "+62 21 2345 6786"
+  },
+  {
+    "email": "support@sampoerna-schools.co.id",
+    "password": "password123",
+    "companyName": "Sampoerna Schools",
+    "contact": "+62 21 5678 1237"
+  },
+  {
+    "email": "info@agungpodomoro.com",
+    "password": "password123",
+    "companyName": "Agung Podomoro Land",
+    "contact": "+62 21 6789 3459"
+  },
+  {
+    "email": "help@indikaenergy.com",
+    "password": "password123",
+    "companyName": "Indika Energy",
+    "contact": "+62 21 7890 1234"
+  },
+  {
+    "email": "contact@indofood.com",
+    "password": "password123",
+    "companyName": "Indofood",
+    "contact": "+62 21 3456 7894"
+  },
+  {
+    "email": "support@menara.com",
+    "password": "password123",
+    "companyName": "Menara Group",
+    "contact": "+62 21 5678 8902"
+  },
+  {
+    "email": "info@bankmandiri.com",
+    "password": "password123",
+    "companyName": "Bank Mandiri",
+    "contact": "+62 21 9012 5670"
+  },
+  {
+    "email": "cs@transcosmos.com",
+    "password": "password123",
+    "companyName": "Transcosmos Indonesia",
+    "contact": "+62 21 6789 2346"
+  },
+  {
+    "email": "contact@kereta-api.co.id",
+    "password": "password123",
+    "companyName": "Kereta Api Indonesia",
+    "contact": "+62 21 2345 1234"
+  },
+  {
+    "email": "help@pelni.com",
+    "password": "password123",
+    "companyName": "Pelni",
+    "contact": "+62 21 5678 7890"
+  },
+  {
+    "email": "info@semendonesia.com",
+    "password": "password123",
+    "companyName": "Semen Indonesia",
+    "contact": "+62 21 9012 5672"
+  },
+  {
+    "email": "support@waskita.com",
+    "password": "password123",
+    "companyName": "Waskita Karya",
+    "contact": "+62 21 3456 7896"
+  },
+  {
+    "email": "admin@pupukindonesia.com",
+    "password": "password123",
+    "companyName": "Pupuk Indonesia",
+    "contact": "+62 21 6789 8901"
+  },
+  {
+    "email": "cs@pegadaian.com",
+    "password": "password123",
+    "companyName": "Pegadaian",
+    "contact": "+62 21 5678 1238"
+  },
+  {
+    "email": "contact@indika.co.id",
+    "password": "password123",
+    "companyName": "Indika Group",
+    "contact": "+62 21 7890 1235"
+  },
+  {
+    "email": "help@bppt.com",
+    "password": "password123",
+    "companyName": "BPPT",
+    "contact": "+62 21 6789 2348"
+  },
+  {
+    "email": "info@ahm.co.id",
+    "password": "password123",
+    "companyName": "Astra Honda Motor",
+    "contact": "+62 21 2345 7894"
+  },
+  {
+    "email": "admin@nutrifood.co.id",
+    "password": "password123",
+    "companyName": "Nutrifood",
+    "contact": "+62 21 7890 2349"
+  },
+  {
+    "email": "cs@panasonic.co.id",
+    "password": "password123",
+    "companyName": "Panasonic Manufacturing",
+    "contact": "+62 21 8901 3456"
+  },
+  {
+    "email": "info@acehardware.co.id",
+    "password": "password123",
+    "companyName": "Ace Hardware Indonesia",
+    "contact": "+62 21 2345 6787"
+  },
+  {
+    "email": "support@coca-colaamatil.co.id",
+    "password": "password123",
+    "companyName": "Coca-Cola Amatil Indonesia",
+    "contact": "+62 21 5678 2349"
+  },
+  {
+    "email": "contact@lotte.co.id",
+    "password": "password123",
+    "companyName": "Lotte Indonesia",
+    "contact": "+62 21 3456 7897"
+  },
+  {
+    "email": "help@garudacitra.co.id",
+    "password": "password123",
+    "companyName": "Garuda Citra",
+    "contact": "+62 21 7890 3457"
+  },
+  {
+    "email": "info@bankbtn.com",
+    "password": "password123",
+    "companyName": "Bank BTN",
+    "contact": "+62 21 6789 3457"
+  },
+  {
+    "email": "cs@bankbni.com",
+    "password": "password123",
+    "companyName": "Bank BNI",
+    "contact": "+62 21 3456 7898"
+  },
+  {
+    "email": "contact@tvri.co.id",
+    "password": "password123",
+    "companyName": "TVRI",
+    "contact": "+62 21 2345 6788"
+  },
+  {
+    "email": "support@bankmega.com",
+    "password": "password123",
+    "companyName": "Bank Mega",
+    "contact": "+62 21 6789 3458"
+  },
+  {
+    "email": "info@grapari.co.id",
+    "password": "password123",
+    "companyName": "Telkomsel Grapari",
+    "contact": "+62 21 5678 1239"
+  },
+  {
+    "email": "contact@pgn.co.id",
+    "password": "password123",
+    "companyName": "Perusahaan Gas Negara",
+    "contact": "+62 21 7890 4567"
+  },
+  {
+    "email": "help@tokopedia.com",
+    "password": "password123",
+    "companyName": "Tokopedia",
+    "contact": "+62 21 9012 6780"
+  },
+  {
+    "email": "admin@kementerianpertanian.go.id",
+    "password": "password123",
+    "companyName": "Kementerian Pertanian",
+    "contact": "+62 21 6789 4567"
+  },
+  {
+    "email": "info@tribunnews.com",
+    "password": "password123",
+    "companyName": "Tribunnews",
+    "contact": "+62 21 3456 6789"
+  }
+]
