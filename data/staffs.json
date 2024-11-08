@@ -1,0 +1,266 @@
+[
+  {
+    "username": "staff01",
+    "email": "syahid@staff.company.com",
+    "password": "password",
+    "fullname": "Syahid Kamil",
+    "role": "staff",
+    "position": "Trainer"
+  },
+  {
+    "username": "staff02",
+    "email": "vincent@staff.company.com",
+    "password": "password",
+    "fullname": "Vincent Kho",
+    "role": "staff",
+    "position": "Trainer"
+  },
+  {
+    "username": "staff03",
+    "email": "helfa@staff.company.com",
+    "password": "password",
+    "fullname": "Helfa Ajeng Dewi",
+    "role": "staff",
+    "position": "Bussiness Support"
+  },
+  {
+    "username": "staff04",
+    "email": "karis@staff.company.com",
+    "password": "password",
+    "fullname": "Karisyudin Tiardewata",
+    "role": "staff",
+    "position": "Bussiness Support"
+  },
+  {
+    "username": "staff05",
+    "email": "manda@staff.company.com",
+    "password": "password",
+    "fullname": "Manda Dian Kusuma",
+    "role": "staff",
+    "position": "Bussiness Development"
+  },
+  {
+    "username": "staff06",
+    "email": "deni@staff.company.com",
+    "password": "password",
+    "fullname": "Deni Sudiarto",
+    "role": "staff",
+    "position": "Bussiness Development"
+  },
+  {
+    "username": "staff07",
+    "email": "irwan@staff.company.com",
+    "password": "password",
+    "fullname": "Muhammad Irwansyah",
+    "role": "staff",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "username": "staff08",
+    "email": "nazwa@staff.company.com",
+    "password": "password",
+    "fullname": "Nazwa Putri",
+    "role": "staff",
+    "position": "Chief Commercial Officer"
+  },
+  {
+    "username": "staff09",
+    "email": "sam@staff.company.com",
+    "password": "password",
+    "fullname": "Samudera Angkasa Dewa",
+    "role": "staff",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "username": "staff10",
+    "email": "ron@staff.company.com",
+    "password": "password",
+    "fullname": "Ronald Tulang Djaya",
+    "role": "staff",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "username": "staff11",
+    "email": "xavier@staff.company.com",
+    "password": "password",
+    "fullname": "Xavier Sudiryo",
+    "role": "staff",
+    "position": "Chief Technology Officer"
+  },
+  {
+    "username": "staff12",
+    "email": "nando@staff.company.com",
+    "password": "password",
+    "fullname": "Nando Rosyi",
+    "role": "staff",
+    "position": "Software Engineer"
+  },
+  {
+    "username": "staff13",
+    "email": "nanda@staff.company.com",
+    "password": "password",
+    "fullname": "Nanda Haryanto",
+    "role": "staff",
+    "position": "People Development"
+  },
+  {
+    "username": "staff14",
+    "email": "randy@staff.company.com",
+    "password": "password",
+    "fullname": "Randy Randy Randy",
+    "role": "staff",
+    "position": "Senior Talent Acquisition"
+  },
+  {
+    "username": "staff15",
+    "email": "shinta@staff.company.com",
+    "password": "password",
+    "fullname": "Shinta Dwo Putri Kurnia",
+    "role": "staff",
+    "position": "Engagement Partnership & Culture"
+  },
+  {
+    "username": "staff16",
+    "email": "putra@staff.company.com",
+    "password": "password",
+    "fullname": "Putra D. Lutfy",
+    "role": "staff",
+    "position": "Talent Acquisition"
+  },
+  {
+    "username": "staff17",
+    "email": "devi@staff.company.com",
+    "password": "password",
+    "fullname": "Devi Cahya Indah",
+    "role": "staff",
+    "position": "Finance & Accounting"
+  },
+  {
+    "username": "staff18",
+    "email": "amanda@staff.company.com",
+    "password": "password",
+    "fullname": "Amanda Pratama",
+    "role": "staff",
+    "position": "HR Specialist"
+  },
+  {
+    "username": "staff19",
+    "email": "budi@staff.company.com",
+    "password": "password",
+    "fullname": "Budi Setiawan",
+    "role": "staff",
+    "position": "HR Specialist"
+  },
+  {
+    "username": "staff20",
+    "email": "cynthia@staff.company.com",
+    "password": "password",
+    "fullname": "Cynthia Dwi Lestari",
+    "role": "staff",
+    "position": "Product Manager"
+  },
+  {
+    "username": "staff21",
+    "email": "daniel@staff.company.com",
+    "password": "password",
+    "fullname": "Daniel Fernando",
+    "role": "staff",
+    "position": "Product Manager"
+  },
+  {
+    "username": "staff22",
+    "email": "elena@staff.company.com",
+    "password": "password",
+    "fullname": "Elena Puspita",
+    "role": "staff",
+    "position": "Sales Executive"
+  },
+  {
+    "username": "staff23",
+    "email": "farhan@staff.company.com",
+    "password": "password",
+    "fullname": "Farhan M. Rizky",
+    "role": "staff",
+    "position": "Sales Executive"
+  },
+  {
+    "username": "staff24",
+    "email": "gita@staff.company.com",
+    "password": "password",
+    "fullname": "Gita Wulan Sari",
+    "role": "staff",
+    "position": "Marketing Lead"
+  },
+  {
+    "username": "staff25",
+    "email": "hendra@staff.company.com",
+    "password": "password",
+    "fullname": "Hendra Suryadi",
+    "role": "staff",
+    "position": "Marketing Lead"
+  },
+  {
+    "username": "staff26",
+    "email": "irma@staff.company.com",
+    "password": "password",
+    "fullname": "Irma Kurniawati",
+    "role": "staff",
+    "position": "Finance Analyst"
+  },
+  {
+    "username": "staff27",
+    "email": "joseph@staff.company.com",
+    "password": "password",
+    "fullname": "Josephina Santoso",
+    "role": "staff",
+    "position": "Finance Analyst"
+  },
+  {
+    "username": "staff28",
+    "email": "kristian@staff.company.com",
+    "password": "password",
+    "fullname": "Kristian Pratama",
+    "role": "staff",
+    "position": "Content Specialist"
+  },
+  {
+    "username": "staff29",
+    "email": "lina@staff.company.com",
+    "password": "password",
+    "fullname": "Lina Susanti",
+    "role": "staff",
+    "position": "Content Specialist"
+  },
+  {
+    "username": "staff30",
+    "email": "michael@staff.company.com",
+    "password": "password",
+    "fullname": "Michael Tan",
+    "role": "staff",
+    "position": "Operations Manager"
+  },
+  {
+    "username": "staff31",
+    "email": "nadya@staff.company.com",
+    "password": "password",
+    "fullname": "Nadya Putri",
+    "role": "staff",
+    "position": "Operations Manager"
+  },
+  {
+    "username": "staff32",
+    "email": "olivia@staff.company.com",
+    "password": "password",
+    "fullname": "Olivia Zahra",
+    "role": "staff",
+    "position": "UX Designer"
+  },
+  {
+    "username": "staff33",
+    "email": "peter@staff.company.com",
+    "password": "password",
+    "fullname": "Peter Yudha",
+    "role": "staff",
+    "position": "UX Designer"
+  }
+]
